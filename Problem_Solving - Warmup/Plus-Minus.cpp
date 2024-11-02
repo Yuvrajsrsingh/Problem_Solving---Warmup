@@ -1,5 +1,5 @@
 //Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
-// Print the decimal value of each fraction on a new line with  places after the decimal.
+// Print the decimal value of each fraction on a new line with 6 places after the decimal.
  // link to solve the question - https://www.hackerrank.com/challenges/plus-minus/problem
 #include <bits/stdc++.h>
 
